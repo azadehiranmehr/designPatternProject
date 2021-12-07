@@ -1,0 +1,10 @@
+release/directory.o
+release/ifile.o
+release/logviewerform.o
+release/main.o
+release/mainwindow.o
+release/popupwindow.o
+release/textfile.o
+release/moc_logviewerform.o
+release/moc_mainwindow.o
+release/moc_popupwindow.o

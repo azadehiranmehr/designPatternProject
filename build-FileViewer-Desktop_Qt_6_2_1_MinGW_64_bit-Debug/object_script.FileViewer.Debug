@@ -1,0 +1,10 @@
+debug/directory.o
+debug/ifile.o
+debug/logviewerform.o
+debug/main.o
+debug/mainwindow.o
+debug/popupwindow.o
+debug/textfile.o
+debug/moc_logviewerform.o
+debug/moc_mainwindow.o
+debug/moc_popupwindow.o
